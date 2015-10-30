@@ -2,17 +2,6 @@
 layout: default
 title: Vitae
 ---
-<div class="resume-item">
-          <h3 class="resume-item-title">Springfield Nuclear Power Plant</h3>
-          <h4 class="resume-item-details">Safety Inspector &bull; Nov, 1980 &mdash; Present</h4>
-          <p class="resume-item-copy">Write about your core competencies in one or two sentences describing your position. If you held the position for a long time, it could be a longer section, including a couple bullet points:</p>
-          <ul class="resume-item-list">
-            <li>Ate lots of donuts</li>
-            <li>Fell asleep rarely</li>
-            <li>Left promptly at end of day (sometimes earlier)</li>
-          </ul>
-</div>
-          
 ## Education
 
 ### Msc Applied Mathematics
@@ -25,6 +14,7 @@ ENSTA ParisTech, France
 Federal University of Rio de Janeiro, Brazil 
 
 ## Experience
+
 ### Research Internship: Acoustic wave scattering by thin coated penetrable objects and inverse imaging methods
 INRIA / CMAP - Ecole Polytechnique, Palaiseau, France
 Developed code for the solution of a direct scattering problem in the presence of a thin coating
