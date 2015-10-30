@@ -10,7 +10,7 @@ title: Vitae
 
 **Bsc Applied Mathematics**, Federal University of Rio de Janeiro, Brazil 
 
-# Experience
+## Experience
 - 2015 May - Aug **Research Internship: Acoustic wave scattering by thin coated penetrable objects and inverse imaging methods**
 INRIA / CMAP - Ecole Polytechnique, Palaiseau, France
 Developed code for the solution of a direct scattering problem in the presence of a thin coating
@@ -27,7 +27,7 @@ schemes for solving ordinary differential equations using Matlab.
 UFRJ, Rio de Janeiro, Brazil
 Provided support to students taking the course by preparing and grading lists of exercises, answering questions and giving extra classes.
 
-# Programming Skills
+## Programming Skills
 * C/C++
 * Python
 * MATLAB
