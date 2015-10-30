@@ -6,4 +6,10 @@ relative_permalinks: true
 
 # Setup
 title:               gdcs92
-tagline:             webpage
+tagline:             computational science & applied maths
+
+# This is the list of pages to include in the header of the website.
+pages_list:       
+  About: '/about/'
+  Vitae: '/vitae/'
+  Projects: '/projects/'
