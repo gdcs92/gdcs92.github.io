@@ -5,6 +5,7 @@ title: Vitae
 
 ## Education
 **Msc Applied Mathematics**, Paris-Saclay University, France
+
 **Engineering Degree**, ENSTA ParisTech, France
 
 **Bsc Applied Mathematics**, Federal University of Rio de Janeiro, Brazil 
