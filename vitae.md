@@ -4,9 +4,11 @@ title: Vitae
 ---
 
 ## Education
-### **Msc Applied Mathematics**, Paris-Saclay University, France
-### **Engineering Degree**, ENSTA ParisTech, France
-### **Bsc Applied Mathematics**, Federal University of Rio de Janeiro, Brazil 
+**Msc Applied Mathematics**, Paris-Saclay University, France
+
+**Engineering Degree**, ENSTA ParisTech, France
+
+**Bsc Applied Mathematics**, Federal University of Rio de Janeiro, Brazil 
 
 # Experience
 - 2015 May - Aug **Research Internship: Acoustic wave scattering by thin coated penetrable objects and inverse imaging methods**
