@@ -11,6 +11,7 @@ title: Vitae
             <li>Fell asleep rarely</li>
             <li>Left promptly at end of day (sometimes earlier)</li>
           </ul>
+</div>
           
 ## Education
 ### Msc Applied Mathematics
