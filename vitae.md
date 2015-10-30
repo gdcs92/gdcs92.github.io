@@ -14,6 +14,7 @@ title: Vitae
 </div>
           
 ## Education
+
 ### Msc Applied Mathematics
 Paris-Saclay University, France
 
@@ -22,6 +23,7 @@ Paris-Saclay University, France
 **Bsc Applied Mathematics**, Federal University of Rio de Janeiro, Brazil 
 
 ## Experience
+
 ### Research Internship: Acoustic wave scattering by thin coated penetrable objects and inverse imaging methods
 INRIA / CMAP - Ecole Polytechnique, Palaiseau, France
 Developed code for the solution of a direct scattering problem in the presence of a thin coating
